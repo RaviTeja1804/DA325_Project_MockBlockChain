@@ -33,8 +33,8 @@ This project offers a simple simulation of blockchain mechanics to help understa
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/blockchain-simulation.git
-cd blockchain-simulation
+git clone https://github.com/RaviTeja1804/DA325_Project_MockBlockChain.git your_folder_name
+cd your_folder_name
 ```
 
 Install dependencies:
