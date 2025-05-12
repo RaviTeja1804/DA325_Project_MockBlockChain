@@ -1,6 +1,6 @@
 # 🔗 Blockchain Simulation Project
 
-This project offers a simple simulation of blockchain mechanics to help understand fundamental concepts like block structure, hashing, mining (proof-of-work), and blockchain verification. Built with Python, it's geared toward learning how blockchain functions internally.
+This project offers a simple simulation of blockchain mechanics to help understand fundamental concepts like block structure, hashing, mining (proof-of-work), and blockchain verification. Built with Python, it shows how blockchain functions internally.
 
 ## Key Features
 
